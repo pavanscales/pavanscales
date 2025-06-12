@@ -1,5 +1,3 @@
-
-
 <h1 align="center">I'm Pavan<br></h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/84/66/77/846677be580a25dba404be59bda8cf60.gif" alt="GIF" style="width: 120%;" />
@@ -8,7 +6,9 @@
 <h3 align="center">WebDev / Web3 / MobileDev</h3>
 <h3 align="center">Currently learning Zig lang </h3>
 <h3 align="center">hacker @calcom</h3>
+<h3 align="center">interested in low-level frontend, perf, systems, and building tools that actually help DX</h3>
 <br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" alt="Vite" />
@@ -33,5 +33,4 @@
 <img src="https://img.shields.io/badge/v0.dev-%23000000.svg?style=plastic&logo=openai&logoColor=white" alt="v0.dev" />
 <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white" alt="Cursor" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=plastic&logo=github&logoColor=white" alt="GitHub Copilot" />
-
 </p>
